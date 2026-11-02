@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhagatpankaj1313-ui.github.io/manch-march/sitemap.xml
